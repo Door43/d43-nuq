@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuq:home|Door43 (nuq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuq|d43-nuq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuq/archive/master.zip|d43-nuq.zip]]
+
+**Recent Changes**
+{{changes>ns = nuq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuq|Ethnologue data]]
+
